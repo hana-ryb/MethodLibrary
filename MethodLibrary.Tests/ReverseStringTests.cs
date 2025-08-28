@@ -11,5 +11,4 @@ public class ReverseStringTests
         var result = ReverseStringMethods.ReverseStringFor(input);
         Assert.That(result, Is.EqualTo(expected));
     }
-
 }
